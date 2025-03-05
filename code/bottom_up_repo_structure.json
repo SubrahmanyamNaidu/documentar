@@ -1,0 +1,738 @@
+{
+    "backend\\controllers": {
+        "path": "./angular-ecommerce-app\\backend\\controllers",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "authController.js",
+                "path": "./angular-ecommerce-app\\backend\\controllers\\authController.js"
+            },
+            {
+                "filename": "orderController.js",
+                "path": "./angular-ecommerce-app\\backend\\controllers\\orderController.js"
+            },
+            {
+                "filename": "userController.js",
+                "path": "./angular-ecommerce-app\\backend\\controllers\\userController.js"
+            }
+        ]
+    },
+    "backend\\database": {
+        "path": "./angular-ecommerce-app\\backend\\database",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "db.js",
+                "path": "./angular-ecommerce-app\\backend\\database\\db.js"
+            }
+        ]
+    },
+    "backend\\middleware": {
+        "path": "./angular-ecommerce-app\\backend\\middleware",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "validation.js",
+                "path": "./angular-ecommerce-app\\backend\\middleware\\validation.js"
+            }
+        ]
+    },
+    "backend\\routes": {
+        "path": "./angular-ecommerce-app\\backend\\routes",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "auth.js",
+                "path": "./angular-ecommerce-app\\backend\\routes\\auth.js"
+            },
+            {
+                "filename": "index.js",
+                "path": "./angular-ecommerce-app\\backend\\routes\\index.js"
+            },
+            {
+                "filename": "orders.js",
+                "path": "./angular-ecommerce-app\\backend\\routes\\orders.js"
+            },
+            {
+                "filename": "products.js",
+                "path": "./angular-ecommerce-app\\backend\\routes\\products.js"
+            },
+            {
+                "filename": "users.js",
+                "path": "./angular-ecommerce-app\\backend\\routes\\users.js"
+            }
+        ]
+    },
+    "backend\\services": {
+        "path": "./angular-ecommerce-app\\backend\\services",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "authService.js",
+                "path": "./angular-ecommerce-app\\backend\\services\\authService.js"
+            },
+            {
+                "filename": "orderService.js",
+                "path": "./angular-ecommerce-app\\backend\\services\\orderService.js"
+            },
+            {
+                "filename": "userService.js",
+                "path": "./angular-ecommerce-app\\backend\\services\\userService.js"
+            }
+        ]
+    },
+    "backend": {
+        "path": "./angular-ecommerce-app\\backend",
+        "sub-folders": {
+            "controllers": {
+                "path": "./angular-ecommerce-app\\backend\\controllers"
+            },
+            "database": {
+                "path": "./angular-ecommerce-app\\backend\\database"
+            },
+            "middleware": {
+                "path": "./angular-ecommerce-app\\backend\\middleware"
+            },
+            "routes": {
+                "path": "./angular-ecommerce-app\\backend\\routes"
+            },
+            "services": {
+                "path": "./angular-ecommerce-app\\backend\\services"
+            }
+        },
+        "files": [
+            {
+                "filename": "app.js",
+                "path": "./angular-ecommerce-app\\backend\\app.js"
+            },
+            {
+                "filename": "package-lock.json",
+                "path": "./angular-ecommerce-app\\backend\\package-lock.json"
+            },
+            {
+                "filename": "package.json",
+                "path": "./angular-ecommerce-app\\backend\\package.json"
+            },
+            {
+                "filename": "sql_dump.sql",
+                "path": "./angular-ecommerce-app\\backend\\sql_dump.sql"
+            }
+        ]
+    },
+    "client\\e2e\\src": {
+        "path": "./angular-ecommerce-app\\client\\e2e\\src",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "app.e2e-spec.ts",
+                "path": "./angular-ecommerce-app\\client\\e2e\\src\\app.e2e-spec.ts"
+            },
+            {
+                "filename": "app.po.ts",
+                "path": "./angular-ecommerce-app\\client\\e2e\\src\\app.po.ts"
+            }
+        ]
+    },
+    "client\\e2e": {
+        "path": "./angular-ecommerce-app\\client\\e2e",
+        "sub-folders": {
+            "src": {
+                "path": "./angular-ecommerce-app\\client\\e2e\\src"
+            }
+        },
+        "files": [
+            {
+                "filename": "protractor.conf.js",
+                "path": "./angular-ecommerce-app\\client\\e2e\\protractor.conf.js"
+            },
+            {
+                "filename": "tsconfig.json",
+                "path": "./angular-ecommerce-app\\client\\e2e\\tsconfig.json"
+            }
+        ]
+    },
+    "client\\src\\app\\auth\\components\\login": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\login",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "login.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\login\\login.component.html"
+            },
+            {
+                "filename": "login.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\login\\login.component.scss"
+            },
+            {
+                "filename": "login.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\login\\login.component.spec.ts"
+            },
+            {
+                "filename": "login.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\login\\login.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\auth\\components\\register": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\register",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "register.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\register\\register.component.html"
+            },
+            {
+                "filename": "register.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\register\\register.component.scss"
+            },
+            {
+                "filename": "register.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\register\\register.component.spec.ts"
+            },
+            {
+                "filename": "register.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\register\\register.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\auth\\components": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components",
+        "sub-folders": {
+            "login": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\login"
+            },
+            "register": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components\\register"
+            }
+        },
+        "files": []
+    },
+    "client\\src\\app\\auth": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\auth",
+        "sub-folders": {
+            "components": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\components"
+            }
+        },
+        "files": [
+            {
+                "filename": "auth.module.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth\\auth.module.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\cart": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\cart",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "cart.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\cart\\cart.component.html"
+            },
+            {
+                "filename": "cart.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\cart\\cart.component.scss"
+            },
+            {
+                "filename": "cart.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\cart\\cart.component.spec.ts"
+            },
+            {
+                "filename": "cart.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\cart\\cart.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\checkout": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\checkout",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "checkout.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\checkout\\checkout.component.html"
+            },
+            {
+                "filename": "checkout.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\checkout\\checkout.component.scss"
+            },
+            {
+                "filename": "checkout.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\checkout\\checkout.component.spec.ts"
+            },
+            {
+                "filename": "checkout.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\checkout\\checkout.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\footer": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\footer",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "footer.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\footer\\footer.component.html"
+            },
+            {
+                "filename": "footer.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\footer\\footer.component.scss"
+            },
+            {
+                "filename": "footer.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\footer\\footer.component.spec.ts"
+            },
+            {
+                "filename": "footer.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\footer\\footer.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\guards": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\guards",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "auth-guard.service.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\guards\\auth-guard.service.spec.ts"
+            },
+            {
+                "filename": "auth-guard.service.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\guards\\auth-guard.service.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\header": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\header",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "header.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\header\\header.component.html"
+            },
+            {
+                "filename": "header.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\header\\header.component.scss"
+            },
+            {
+                "filename": "header.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\header\\header.component.spec.ts"
+            },
+            {
+                "filename": "header.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\header\\header.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\home": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\home",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "home.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\home\\home.component.html"
+            },
+            {
+                "filename": "home.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\home\\home.component.scss"
+            },
+            {
+                "filename": "home.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\home\\home.component.spec.ts"
+            },
+            {
+                "filename": "home.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\home\\home.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\order-history": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\order-history",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "order-history.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\order-history\\order-history.component.html"
+            },
+            {
+                "filename": "order-history.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\order-history\\order-history.component.scss"
+            },
+            {
+                "filename": "order-history.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\order-history\\order-history.component.spec.ts"
+            },
+            {
+                "filename": "order-history.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\order-history\\order-history.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\product": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\product",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "product.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product\\product.component.html"
+            },
+            {
+                "filename": "product.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product\\product.component.scss"
+            },
+            {
+                "filename": "product.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product\\product.component.spec.ts"
+            },
+            {
+                "filename": "product.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product\\product.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\product-card": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\product-card",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "product-card.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product-card\\product-card.component.html"
+            },
+            {
+                "filename": "product-card.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product-card\\product-card.component.scss"
+            },
+            {
+                "filename": "product-card.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product-card\\product-card.component.spec.ts"
+            },
+            {
+                "filename": "product-card.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product-card\\product-card.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\profile": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\profile",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "profile.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\profile\\profile.component.html"
+            },
+            {
+                "filename": "profile.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\profile\\profile.component.scss"
+            },
+            {
+                "filename": "profile.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\profile\\profile.component.spec.ts"
+            },
+            {
+                "filename": "profile.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\profile\\profile.component.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\services": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\services",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "api.service.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\api.service.spec.ts"
+            },
+            {
+                "filename": "api.service.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\api.service.ts"
+            },
+            {
+                "filename": "auth.service.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\auth.service.spec.ts"
+            },
+            {
+                "filename": "auth.service.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\auth.service.ts"
+            },
+            {
+                "filename": "cart.service.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\cart.service.spec.ts"
+            },
+            {
+                "filename": "cart.service.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\cart.service.ts"
+            },
+            {
+                "filename": "interceptor.service.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\interceptor.service.spec.ts"
+            },
+            {
+                "filename": "interceptor.service.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\interceptor.service.ts"
+            },
+            {
+                "filename": "product.service.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\product.service.spec.ts"
+            },
+            {
+                "filename": "product.service.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\product.service.ts"
+            },
+            {
+                "filename": "token-storage.service.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\token-storage.service.spec.ts"
+            },
+            {
+                "filename": "token-storage.service.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services\\token-storage.service.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\shared\\models": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\shared\\models",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "product.model.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\shared\\models\\product.model.ts"
+            }
+        ]
+    },
+    "client\\src\\app\\shared": {
+        "path": "./angular-ecommerce-app\\client\\src\\app\\shared",
+        "sub-folders": {
+            "models": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\shared\\models"
+            }
+        },
+        "files": [
+            {
+                "filename": "shared.module.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\shared\\shared.module.ts"
+            }
+        ]
+    },
+    "client\\src\\app": {
+        "path": "./angular-ecommerce-app\\client\\src\\app",
+        "sub-folders": {
+            "auth": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\auth"
+            },
+            "cart": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\cart"
+            },
+            "checkout": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\checkout"
+            },
+            "footer": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\footer"
+            },
+            "guards": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\guards"
+            },
+            "header": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\header"
+            },
+            "home": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\home"
+            },
+            "order-history": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\order-history"
+            },
+            "product": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product"
+            },
+            "product-card": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\product-card"
+            },
+            "profile": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\profile"
+            },
+            "services": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\services"
+            },
+            "shared": {
+                "path": "./angular-ecommerce-app\\client\\src\\app\\shared"
+            }
+        },
+        "files": [
+            {
+                "filename": "app-routing.module.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\app-routing.module.ts"
+            },
+            {
+                "filename": "app.component.html",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\app.component.html"
+            },
+            {
+                "filename": "app.component.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\app.component.scss"
+            },
+            {
+                "filename": "app.component.spec.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\app.component.spec.ts"
+            },
+            {
+                "filename": "app.component.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\app.component.ts"
+            },
+            {
+                "filename": "app.module.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\app\\app.module.ts"
+            }
+        ]
+    },
+    "client\\src\\assets": {
+        "path": "./angular-ecommerce-app\\client\\src\\assets",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "1.jpg",
+                "path": "./angular-ecommerce-app\\client\\src\\assets\\1.jpg"
+            },
+            {
+                "filename": "2.jpg",
+                "path": "./angular-ecommerce-app\\client\\src\\assets\\2.jpg"
+            },
+            {
+                "filename": "3.jpg",
+                "path": "./angular-ecommerce-app\\client\\src\\assets\\3.jpg"
+            },
+            {
+                "filename": "4.jpg",
+                "path": "./angular-ecommerce-app\\client\\src\\assets\\4.jpg"
+            }
+        ]
+    },
+    "client\\src\\environments": {
+        "path": "./angular-ecommerce-app\\client\\src\\environments",
+        "sub-folders": {},
+        "files": [
+            {
+                "filename": "environment.prod.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\environments\\environment.prod.ts"
+            },
+            {
+                "filename": "environment.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\environments\\environment.ts"
+            }
+        ]
+    },
+    "client\\src": {
+        "path": "./angular-ecommerce-app\\client\\src",
+        "sub-folders": {
+            "app": {
+                "path": "./angular-ecommerce-app\\client\\src\\app"
+            },
+            "assets": {
+                "path": "./angular-ecommerce-app\\client\\src\\assets"
+            },
+            "environments": {
+                "path": "./angular-ecommerce-app\\client\\src\\environments"
+            }
+        },
+        "files": [
+            {
+                "filename": "favicon.ico",
+                "path": "./angular-ecommerce-app\\client\\src\\favicon.ico"
+            },
+            {
+                "filename": "index.html",
+                "path": "./angular-ecommerce-app\\client\\src\\index.html"
+            },
+            {
+                "filename": "main.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\main.ts"
+            },
+            {
+                "filename": "polyfills.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\polyfills.ts"
+            },
+            {
+                "filename": "styles.scss",
+                "path": "./angular-ecommerce-app\\client\\src\\styles.scss"
+            },
+            {
+                "filename": "test.ts",
+                "path": "./angular-ecommerce-app\\client\\src\\test.ts"
+            },
+            {
+                "filename": "theme.less",
+                "path": "./angular-ecommerce-app\\client\\src\\theme.less"
+            }
+        ]
+    },
+    "client": {
+        "path": "./angular-ecommerce-app\\client",
+        "sub-folders": {
+            "e2e": {
+                "path": "./angular-ecommerce-app\\client\\e2e"
+            },
+            "src": {
+                "path": "./angular-ecommerce-app\\client\\src"
+            }
+        },
+        "files": [
+            {
+                "filename": "angular.json",
+                "path": "./angular-ecommerce-app\\client\\angular.json"
+            },
+            {
+                "filename": "karma.conf.js",
+                "path": "./angular-ecommerce-app\\client\\karma.conf.js"
+            },
+            {
+                "filename": "package-lock.json",
+                "path": "./angular-ecommerce-app\\client\\package-lock.json"
+            },
+            {
+                "filename": "package.json",
+                "path": "./angular-ecommerce-app\\client\\package.json"
+            },
+            {
+                "filename": "README.md",
+                "path": "./angular-ecommerce-app\\client\\README.md"
+            },
+            {
+                "filename": "tsconfig.app.json",
+                "path": "./angular-ecommerce-app\\client\\tsconfig.app.json"
+            },
+            {
+                "filename": "tsconfig.json",
+                "path": "./angular-ecommerce-app\\client\\tsconfig.json"
+            },
+            {
+                "filename": "tsconfig.spec.json",
+                "path": "./angular-ecommerce-app\\client\\tsconfig.spec.json"
+            },
+            {
+                "filename": "tslint.json",
+                "path": "./angular-ecommerce-app\\client\\tslint.json"
+            }
+        ]
+    },
+    ".": {
+        "path": "./angular-ecommerce-app",
+        "sub-folders": {
+            "backend": {
+                "path": "./angular-ecommerce-app\\backend"
+            },
+            "client": {
+                "path": "./angular-ecommerce-app\\client"
+            }
+        },
+        "files": [
+            {
+                "filename": "1.gif",
+                "path": "./angular-ecommerce-app\\1.gif"
+            },
+            {
+                "filename": "2.gif",
+                "path": "./angular-ecommerce-app\\2.gif"
+            },
+            {
+                "filename": "README.md",
+                "path": "./angular-ecommerce-app\\README.md"
+            }
+        ]
+    }
+}
